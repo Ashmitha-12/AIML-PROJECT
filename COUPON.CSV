@@ -1,0 +1,151 @@
+Gender,Item1,Item2,Item3,transactions,Coupon,coupon_discount
+Male,Computer Games,Toys,Educational Products,436274.4467,Kids Apparel,117.2768641
+Female,Cosmetics,Womens Wear,Kids Wear,5323.51,Womens Apparel,70.8850463
+Female,Cosmetics,Womens Wear,Candy,48980.99833,Womens Apparel,342.8261951
+Male,Computer Games,Gym Shoes,Tie,3697.783333,Mens Apparel,88.6949026
+Male,Heels,Womens Wear,Kids Wear,289181.8483,Womens Apparel,200.9917193
+Male,Handbag,Womens Wear,Kids Wear,6877.825,Womens Apparel,181.8326538
+Female,Cosmetics,Toys,Candy,37097.695,Kids Apparel,116.1421086
+Female,Handbag,Movies,Educational Products,9209.23,Womens Apparel,45.88107849
+Female,Mens Wear,Movies,Candy,21310.75417,Kids Apparel,54.47241569
+Female,Heels,Toys,Kids Wear,360322.4717,Kids Apparel,284.3463475
+Female,Mens Wear,Gym Shoes,Educational Products,4467.82,Mens Apparel,228.0077778
+Male,Computer Games,Board Games,Candy,22360.495,Kids Apparel,99.37999175
+Female,Cosmetics,Womens Wear,Educational Products,913282.4933,Womens Apparel,122.0487738
+Male,Handbag,Movies,Tie,4239.501667,Mens Apparel,471.9657937
+Female,Computer Games,Board Games,Kids Wear,73106.35783,Kids Apparel,447.2667842
+Male,Cosmetics,Board Games,Educational Products,384188.108,Womens Apparel,81.54685552
+Female,Computer Games,Womens Wear,Educational Products,20275.51,Mens Apparel,97.76861294
+Female,Heels,Toys,Educational Products,522909.1083,Kids Apparel,524.9071672
+Male,Cosmetics,Movies,Tie,21759.415,Mens Apparel,573.7414899
+Female,Handbag,Womens Wear,Educational Products,12099176.05,Womens Apparel,178.7286891
+Male,Cosmetics,Movies,Candy,147023.285,Womens Apparel,109.8578688
+Female,Mens Wear,Womens Wear,Educational Products,54049.13833,Womens Apparel,89.47298651
+Female,Computer Games,Movies,Kids Wear,56796.97833,Kids Apparel,91.5954601
+Female,Mens Wear,Gym Shoes,Tie,32494.8175,Mens Apparel,128.9509558
+Female,Mens Wear,Board Games,Candy,33872.26448,Kids Apparel,42.76978412
+Male,Cosmetics,Movies,Tie,15031.82,Mens Apparel,43.62110099
+Female,Mens Wear,Board Games,Tie,21758.84167,Mens Apparel,83.4233566
+Female,Computer Games,Board Games,Educational Products,13945.75,Kids Apparel,149.1829933
+Male,Mens Wear,Womens Wear,Tie,31782.645,Mens Apparel,232.0831762
+Female,Handbag,Womens Wear,Educational Products,64981.55,Womens Apparel,495.274445
+Male,Cosmetics,Toys,Educational Products,35911.56929,Kids Apparel,140.9742835
+Female,Computer Games,Toys,Kids Wear,30342.215,Kids Apparel,85.84387593
+Female,Mens Wear,Movies,Candy,14589.475,Womens Apparel,334.2136305
+Female,Cosmetics,Womens Wear,Tie,14921.59222,Womens Apparel,30.0301656
+Male,Mens Wear,Movies,Educational Products,135,Mens Apparel,135
+Male,Computer Games,Womens Wear,Educational Products,5751.005,Womens Apparel,126.9872141
+Male,Mens Wear,Gym Shoes,Educational Products,1842.595,Mens Apparel,107.98625
+Female,Heels,Womens Wear,Kids Wear,22765.68762,Womens Apparel,128.4541669
+Female,Computer Games,Movies,Educational Products,160429.7148,Mens Apparel,135.502045
+Female,Handbag,Movies,Kids Wear,3684.15,Kids Apparel,611.1166667
+Female,Cosmetics,Movies,Candy,23826.80783,Womens Apparel,53.04801204
+Female,Handbag,Board Games,Tie,33655.415,Womens Apparel,232.9596125
+Male,Computer Games,Board Games,Tie,31782.645,Mens Apparel,232.0831762
+Male,Mens Wear,Womens Wear,Educational Products,4195.69,Mens Apparel,387.0125
+Female,Mens Wear,Movies,Candy,11570.795,Mens Apparel,140.7621107
+Female,Cosmetics,Toys,Educational Products,2449.515,Kids Apparel,72.85063889
+Male,Mens Wear,Movies,Kids Wear,6659.136226,Kids Apparel,57.9055324
+Female,Computer Games,Movies,Candy,682.1,Kids Apparel,124.31
+Female,Cosmetics,Movies,Educational Products,8313.27,Womens Apparel,302.4706667
+Female,Computer Games,Toys,Tie,3918.9,Kids Apparel,70.49628571
+Female,Cosmetics,Movies,Educational Products,9209.23,Womens Apparel,45.88107849
+Female,Computer Games,Womens Wear,Kids Wear,37872.33,Kids Apparel,498.3201724
+Male,Mens Wear,Movies,Kids Wear,142874.0233,Mens Apparel,211.7083689
+Male,Heels,Gym Shoes,Educational Products,377837.8183,Mens Apparel,145.6036024
+Female,Heels,Womens Wear,Candy,39927.95,Womens Apparel,134.3588614
+Female,Handbag,Womens Wear,Educational Products,18437.255,Womens Apparel,163.4941111
+Male,Computer Games,Movies,Kids Wear,149.25,Kids Apparel,149.25
+Female,Computer Games,Toys,Candy,31782.645,Kids Apparel,232.0831762
+Female,Mens Wear,Movies,Educational Products,33902.02,Mens Apparel,224.0549858
+Male,Computer Games,Womens Wear,Tie,19793.89833,Mens Apparel,130.0105236
+Female,Mens Wear,Movies,Candy,19073.24,Mens Apparel,147.0523462
+Male,Cosmetics,Womens Wear,Kids Wear,16396.94917,Womens Apparel,124.1761176
+Male,Mens Wear,Movies,Educational Products,21745.04,Mens Apparel,186.0214394
+Female,Cosmetics,Toys,Kids Wear,4423.07,Kids Apparel,61.18592803
+Female,Handbag,Board Games,Educational Products,12099176.05,Kids Apparel,178.7286891
+Female,Computer Games,Board Games,Tie,72257.87,Kids Apparel,388.7460367
+Female,Mens Wear,Toys,Tie,163471.9675,Mens Apparel,118.9370737
+Male,Computer Games,Gym Shoes,Tie,136665.1183,Mens Apparel,212.7794728
+Female,Heels,Movies,Tie,35733.03,Womens Apparel,60.3
+Male,Cosmetics,Toys,Educational Products,37872.33,Womens Apparel,498.3201724
+Male,Handbag,Toys,Kids Wear,8054.56,Kids Apparel,141.3080702
+Female,Computer Games,Movies,Tie,56796.97833,Kids Apparel,91.5954601
+Female,Mens Wear,Movies,Educational Products,15953485.74,Mens Apparel,129.300728
+Female,Computer Games,Toys,Educational Products,196570.5287,Kids Apparel,42.03293023
+Male,Cosmetics,Toys,Kids Wear,13289871.52,Kids Apparel,185.4383133
+Female,Heels,Womens Wear,Candy,50608.33,Womens Apparel,123.5618563
+Male,Handbag,Gym Shoes,Educational Products,12161.525,Mens Apparel,213.3600556
+Female,Computer Games,Board Games,Educational Products,210801.1947,Kids Apparel,28.27380098
+Male,Computer Games,Toys,Candy,66698.145,Kids Apparel,191.603319
+Female,Cosmetics,Movies,Kids Wear,210801.1947,Womens Apparel,28.27380098
+Female,Computer Games,Board Games,Educational Products,2494.745,Kids Apparel,67.40671296
+Female,Computer Games,Board Games,Kids Wear,24475.66875,Kids Apparel,284.6007994
+Female,Mens Wear,Movies,Tie,52535.50167,Mens Apparel,70.55579829
+Male,Computer Games,Womens Wear,Educational Products,21687.91833,Kids Apparel,60.05642876
+Female,Computer Games,Movies,Tie,39855.08,Mens Apparel,287.4789672
+Male,Mens Wear,Toys,Educational Products,5169.075,Mens Apparel,106.7112417
+Female,Mens Wear,Movies,Tie,40727.075,Mens Apparel,84.70080578
+Female,Heels,Toys,Kids Wear,34294.33267,Kids Apparel,108.3563419
+Female,Cosmetics,Womens Wear,Educational Products,3187.95,Womens Apparel,233.0408333
+Female,Computer Games,Gym Shoes,Tie,19750.78,Mens Apparel,195.5522745
+Female,Mens Wear,Movies,Educational Products,25965.85167,Mens Apparel,110.0195381
+Male,Computer Games,Toys,Tie,24443.965,Kids Apparel,238.0006186
+Female,Computer Games,Movies,Kids Wear,66318.58967,Mens Apparel,133.8068099
+Female,Computer Games,Toys,Educational Products,4740115.419,Kids Apparel,135.6196095
+Male,Heels,Movies,Candy,56796.97833,Womens Apparel,91.5954601
+Male,Handbag,Womens Wear,Kids Wear,44222.60167,Womens Apparel,366.8984713
+Male,Mens Wear,Movies,Educational Products,8203.793333,Mens Apparel,86.57963675
+Female,Computer Games,Toys,Tie,13294.07833,Kids Apparel,127.10267
+Female,Cosmetics,Womens Wear,Candy,149.25,Womens Apparel,149.25
+Female,Heels,Board Games,Educational Products,249154.9727,Kids Apparel,77.79056052
+Male,Mens Wear,Movies,Educational Products,20590.39083,Mens Apparel,119.5755862
+Male,Computer Games,Board Games,Educational Products,33249.725,Kids Apparel,190.988406
+Female,Heels,Movies,Tie,890.14,Womens Apparel,890.14
+Female,Computer Games,Toys,Educational Products,29930.69865,Kids Apparel,43.62383995
+Female,Cosmetics,Womens Wear,Tie,16244.31333,Womens Apparel,103.2419836
+Male,Mens Wear,Board Games,Kids Wear,37015.3,Mens Apparel,113.1997296
+Female,Mens Wear,Womens Wear,Candy,10592.505,Womens Apparel,196.022675
+Female,Mens Wear,Board Games,Tie,31782.645,Mens Apparel,232.0831762
+Male,Computer Games,Movies,Candy,11580.363,Kids Apparel,52.41735269
+Male,Cosmetics,Board Games,Kids Wear,60723.3605,Kids Apparel,45.54352414
+Female,Mens Wear,Movies,Educational Products,95759.40797,Mens Apparel,81.82151816
+Male,Computer Games,Board Games,Candy,95759.40797,Kids Apparel,81.82151816
+Female,Handbag,Movies,Candy,70553.56333,Womens Apparel,109.1600698
+Female,Heels,Womens Wear,Tie,2115.66,Womens Apparel,35.26063406
+Female,Computer Games,Movies,Educational Products,49102.62833,Mens Apparel,141.1867602
+Male,Computer Games,Movies,Candy,393250.1461,Kids Apparel,110.4237877
+Female,Heels,Womens Wear,Tie,68801.79,Womens Apparel,172.0531197
+Female,Mens Wear,Toys,Educational Products,312440.1177,Kids Apparel,109.689062
+Female,Heels,Womens Wear,Tie,114337.1032,Womens Apparel,51.29483674
+Male,Mens Wear,Movies,Tie,45523.765,Mens Apparel,296.9312886
+Female,Cosmetics,Womens Wear,Educational Products,147023.285,Womens Apparel,109.8578688
+Male,Cosmetics,Movies,Tie,1301.905,Mens Apparel,275.251875
+Female,Mens Wear,Movies,Educational Products,67972.52925,Mens Apparel,57.56848015
+Female,Cosmetics,Board Games,Educational Products,114739.9117,Womens Apparel,169.5256947
+Male,Cosmetics,Movies,Tie,25707.835,Womens Apparel,135.510524
+Female,Computer Games,Movies,Kids Wear,72257.87,Kids Apparel,388.7460367
+Female,Handbag,Womens Wear,Educational Products,349054.6803,Womens Apparel,152.7914249
+Male,Handbag,Movies,Educational Products,522909.1083,Mens Apparel,524.9071672
+Female,Heels,Womens Wear,Candy,2318.07,Womens Apparel,105.3668182
+Female,Mens Wear,Toys,Kids Wear,89334.24,Kids Apparel,120.4281029
+Male,Computer Games,Movies,Tie,74609.17167,Kids Apparel,88.65448478
+Female,Cosmetics,Toys,Kids Wear,141586.3695,Womens Apparel,66.97417652
+Male,Cosmetics,Womens Wear,Educational Products,174677.2173,Womens Apparel,72.37075703
+Female,Computer Games,Womens Wear,Educational Products,281169.4319,Womens Apparel,50.72196187
+Male,Mens Wear,Movies,Tie,20275.51,Mens Apparel,97.76861294
+Female,Mens Wear,Board Games,Kids Wear,64135.47,Kids Apparel,482.7856145
+Male,Computer Games,Gym Shoes,Educational Products,10625.61,Mens Apparel,178.9314929
+Male,Cosmetics,Toys,Candy,45404.76281,Kids Apparel,125.3208519
+Female,Heels,Movies,Educational Products,563274.9592,Womens Apparel,136.1245371
+Male,Mens Wear,Womens Wear,Educational Products,30277.64833,Womens Apparel,104.5759428
+Female,Heels,Board Games,Kids Wear,32258.78333,Kids Apparel,79.67860594
+Male,Handbag,Movies,Candy,22424.97,Womens Apparel,95.41911904
+Female,Heels,Board Games,Educational Products,9209.23,Womens Apparel,45.88107849
+Female,Cosmetics,Gym Shoes,Tie,24046.08,Mens Apparel,71.53832646
+Male,Computer Games,Womens Wear,Kids Wear,39662.17983,Kids Apparel,96.94411228
+Female,Handbag,Movies,Tie,47223.323,Womens Apparel,76.25900996
+Male,Computer Games,Toys,Educational Products,70553.56333,Kids Apparel,109.1600698
+Male,Cosmetics,Womens Wear,Candy,56510.57,Womens Apparel,103.0320163
+Female,Computer Games,Womens Wear,Educational Products,6659.136226,Kids Apparel,57.9055324
+Male,Heels,Toys,Educational Products,23826.80783,Womens Apparel,53.04801204
